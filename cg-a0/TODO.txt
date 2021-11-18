@@ -1,0 +1,14 @@
+TODO FOR ALICE
+
+1. Create a new rectangle based on clickStart and clickEnd
+2. Draw that rectangle in render()
+3. Create new triangles before drawing rectangle, add them to an array
+4. Draw the triangles
+
+NEW TRIANGLES
+• SMALLEST SIDE
+• POINTS
+• TRIANGLE OBJECT
+• PUSH TO THE TRIANGLES ARRAY
+• DETERMINE POINTS BASED ON QUADRANT
+• DIVIDE BY HALF

@@ -1,0 +1,6 @@
+TODO
+
+* build traceRay for sphere collision based on z axis
+* what is happening with aspect ratio
+
+LAST. color logic with BRDF and all that crap
